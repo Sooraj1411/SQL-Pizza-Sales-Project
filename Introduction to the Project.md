@@ -3,7 +3,7 @@
 ## Overview
 In this project, I performed an in-depth analysis of pizza sales data using MySQL.<br> The project aimed to uncover valuable insights into sales patterns, customer preferences, and overall business performance.<br> By leveraging SQL queries, I was able to extract, manipulate, and analyze the data to provide actionable insights that could help in making data-driven decisions.
 
-[Project's PDF]([https://github.com/Sooraj1411/Power-Bi-Madhav-Ecommerce-Dashboard/blob/main/Screenshot%202024-08-09%20155257.png](https://github.com/Sooraj1411/SQL-Pizza-Sales-Project/blob/main/Pizza%20Sales%20SQL%20Project.pdf)
+[Project's PDF](https://github.com/Sooraj1411/SQL-Pizza-Sales-Project/blob/main/Pizza%20Sales%20SQL%20Project.pdf)
 
 ## Key Objectives
 - Sales Performance : Evaluated Total Revenue, peak hours and revenue trends
@@ -25,5 +25,5 @@ This analysis provided a comprehensive understanding of the pizza sales trends, 
 ## Contact
 If you have any questions or need further assistance, feel free to reach out:
 
-Email: suraj783856@gmail.com
+Email: suraj783856@gmail.com <br>
 LinkedIn: Suraj Kumar
