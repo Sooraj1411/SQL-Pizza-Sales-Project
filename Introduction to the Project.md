@@ -11,7 +11,7 @@ In this project, I performed an in-depth analysis of pizza sales data using MySQ
 - Order Patterns: Explored order frequency, average order value.
 - Recommendations: Based on the findings, provided recommendations to improve sales and customer satisfaction.
 
-  ## Files
+  ## Files 
 - `[SQLPizzaSales.sql]` - The SQL Queries
 - `order_details.csv , orders.csv , pizza_types.csv , pizzas.csv` - Directory containing the data files used
 
